@@ -1,0 +1,5 @@
+/root/cabbage/DenseNet/VOC_NPK/test/EW 
+/root/cabbage/DenseNet/VOC_NPK/test/FN 
+/root/cabbage/DenseNet/VOC_NPK/test/LW 
+/root/cabbage/DenseNet/VOC_NPK/test/N 
+percentage:94.117647 

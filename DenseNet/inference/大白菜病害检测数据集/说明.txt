@@ -1,0 +1,3 @@
+backmoth   背蛾
+leafminer    潜叶虫
+mildew        霉菌

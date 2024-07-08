@@ -1,0 +1,9 @@
+/root/cabbage/DenseNet/VOC_NPK/test/EW 
+0.000000 
+/root/cabbage/DenseNet/VOC_NPK/test/FN 
+0.000000 
+/root/cabbage/DenseNet/VOC_NPK/test/LW 
+0.000000 
+/root/cabbage/DenseNet/VOC_NPK/test/N 
+0.000000 
+percentage:0.000000 

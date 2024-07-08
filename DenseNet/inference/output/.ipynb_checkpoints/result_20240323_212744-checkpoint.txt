@@ -1,0 +1,25 @@
+/root/cabbage/yolov5/runs/detect/exp/crop/12_jpg.rf.3fa886da7134c2c91c4d776445790d12/Index3 
+1 Index3 
+11 Index3 
+12 Index3 
+13 Index3 
+14 Index3 
+15 Index3 
+16 Index3 
+17 Index3 
+18 Index3 
+19 Index3 
+2 Index3 
+3 Index3 
+4 Index3 
+6 Index3 
+9 Index3 
+100.000000 
+/root/cabbage/yolov5/runs/detect/exp/crop/12_jpg.rf.3fa886da7134c2c91c4d776445790d12/Index2 
+1 Index3 
+10 Index3 
+5 Index3 
+7 Index3 
+8 Index3 
+0.000000 
+percentage:75.000000 
